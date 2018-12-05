@@ -1,4 +1,4 @@
 
 FROM scratch
 
-ENTRYPOINT ["/hello-openshift"]
+ENTRYPOINT ["cd/ hello-openshift"]
